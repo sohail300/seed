@@ -33,7 +33,7 @@ def extract_error_message(exception):
 
 def seed_employees():
     url = f"{BASE_URL}/organization/employee/create"
-    employees_data = load_data("employees.json")
+    employees_data = load_data("employees_two.json")
 
     created_employees = []
 
