@@ -1,0 +1,6202 @@
+[
+  {
+    "employee": {
+      "first_name": "Employee1",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0001",
+      "email": "employee1@example.com",
+      "professional_email": "employee1@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee1",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee2",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0002",
+      "email": "employee2@example.com",
+      "professional_email": "employee2@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee2",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee3",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0003",
+      "email": "employee3@example.com",
+      "professional_email": "employee3@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee3",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee4",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0004",
+      "email": "employee4@example.com",
+      "professional_email": "employee4@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee4",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee5",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0005",
+      "email": "employee5@example.com",
+      "professional_email": "employee5@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee5",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee6",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0006",
+      "email": "employee6@example.com",
+      "professional_email": "employee6@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee6",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee7",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0007",
+      "email": "employee7@example.com",
+      "professional_email": "employee7@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee7",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee8",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0008",
+      "email": "employee8@example.com",
+      "professional_email": "employee8@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee8",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee9",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0009",
+      "email": "employee9@example.com",
+      "professional_email": "employee9@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee9",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee10",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0010",
+      "email": "employee10@example.com",
+      "professional_email": "employee10@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee10",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee11",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0011",
+      "email": "employee11@example.com",
+      "professional_email": "employee11@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee11",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee12",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0012",
+      "email": "employee12@example.com",
+      "professional_email": "employee12@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee12",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee13",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0013",
+      "email": "employee13@example.com",
+      "professional_email": "employee13@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee13",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee14",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0014",
+      "email": "employee14@example.com",
+      "professional_email": "employee14@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee14",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee15",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0015",
+      "email": "employee15@example.com",
+      "professional_email": "employee15@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee15",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee16",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0016",
+      "email": "employee16@example.com",
+      "professional_email": "employee16@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee16",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee17",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0017",
+      "email": "employee17@example.com",
+      "professional_email": "employee17@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee17",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee18",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0018",
+      "email": "employee18@example.com",
+      "professional_email": "employee18@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee18",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee19",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0019",
+      "email": "employee19@example.com",
+      "professional_email": "employee19@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee19",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee20",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0020",
+      "email": "employee20@example.com",
+      "professional_email": "employee20@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee20",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee21",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0021",
+      "email": "employee21@example.com",
+      "professional_email": "employee21@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee21",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee22",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0022",
+      "email": "employee22@example.com",
+      "professional_email": "employee22@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee22",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee23",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0023",
+      "email": "employee23@example.com",
+      "professional_email": "employee23@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee23",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee24",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0024",
+      "email": "employee24@example.com",
+      "professional_email": "employee24@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee24",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee25",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0025",
+      "email": "employee25@example.com",
+      "professional_email": "employee25@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee25",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee26",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0026",
+      "email": "employee26@example.com",
+      "professional_email": "employee26@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee26",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee27",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0027",
+      "email": "employee27@example.com",
+      "professional_email": "employee27@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee27",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee28",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0028",
+      "email": "employee28@example.com",
+      "professional_email": "employee28@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee28",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee29",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0029",
+      "email": "employee29@example.com",
+      "professional_email": "employee29@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee29",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee30",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0030",
+      "email": "employee30@example.com",
+      "professional_email": "employee30@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee30",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee31",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0031",
+      "email": "employee31@example.com",
+      "professional_email": "employee31@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee31",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee32",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0032",
+      "email": "employee32@example.com",
+      "professional_email": "employee32@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee32",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee33",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0033",
+      "email": "employee33@example.com",
+      "professional_email": "employee33@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee33",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee34",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0034",
+      "email": "employee34@example.com",
+      "professional_email": "employee34@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee34",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee35",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0035",
+      "email": "employee35@example.com",
+      "professional_email": "employee35@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee35",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee36",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0036",
+      "email": "employee36@example.com",
+      "professional_email": "employee36@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee36",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee37",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0037",
+      "email": "employee37@example.com",
+      "professional_email": "employee37@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee37",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee38",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0038",
+      "email": "employee38@example.com",
+      "professional_email": "employee38@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee38",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee39",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0039",
+      "email": "employee39@example.com",
+      "professional_email": "employee39@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee39",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee40",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0040",
+      "email": "employee40@example.com",
+      "professional_email": "employee40@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee40",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee41",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0041",
+      "email": "employee41@example.com",
+      "professional_email": "employee41@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee41",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee42",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0042",
+      "email": "employee42@example.com",
+      "professional_email": "employee42@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee42",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee43",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0043",
+      "email": "employee43@example.com",
+      "professional_email": "employee43@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee43",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee44",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0044",
+      "email": "employee44@example.com",
+      "professional_email": "employee44@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee44",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee45",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0045",
+      "email": "employee45@example.com",
+      "professional_email": "employee45@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee45",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee46",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0046",
+      "email": "employee46@example.com",
+      "professional_email": "employee46@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee46",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee47",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0047",
+      "email": "employee47@example.com",
+      "professional_email": "employee47@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee47",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee48",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0048",
+      "email": "employee48@example.com",
+      "professional_email": "employee48@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee48",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee49",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0049",
+      "email": "employee49@example.com",
+      "professional_email": "employee49@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee49",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  },
+  {
+    "employee": {
+      "first_name": "Employee50",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "contact_number": "+1-555-100-0050",
+      "email": "employee50@example.com",
+      "professional_email": "employee50@company.com",
+      "nationality": ["Mexican"],
+      "religion": "Catholic",
+      "gender": "Male",
+      "date_of_birth": "1988-03-10",
+      "category": "General",
+      "marital_status": "Single",
+      "blood_group": "A-",
+      "critical_medical_ailment": false,
+      "ailment_name": null,
+      "fathers_name": "Carlos Rodriguez",
+      "fathers_occupation": "Business Owner",
+      "mothers_name": "Rosa Rodriguez",
+      "mothers_occupation": "Accountant",
+      "spouse_name": null,
+      "spouse_occupation": null,
+      "current_work_location": "Bangalore",
+      "emergency_contact_number": "+1-555-789-0123",
+      "emergency_contact_name": "Carlos Rodriguez",
+      "emergency_contact_relationship": "Father",
+      "id_proof": "Passport",
+      "pan_number": "LMNOP7890Q",
+      "employment_type": "Full-Time",
+      "designation_id": 1,
+      "role_ids": [1],
+      "department_id": 1,
+      "company_id": 1,
+      "supervisor_id": "EMP0001"
+    },
+    "address": [
+      {
+        "type": "Permanent",
+        "street": "789 Oak Lane",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Austin",
+        "district": "Downtown",
+        "pincode": "78701"
+      }
+    ],
+    "qualification": [
+      {
+        "qualification": "Bachelors Degree",
+        "specialization": "Software Engineering",
+        "university": "University of Texas",
+        "school_college": "School of Computer Science",
+        "gpa_or_percentage": 88.3,
+        "course_start_date": "2006-09-01",
+        "course_end_date": "2010-05-31",
+        "course_ongoing": false
+      }
+    ],
+    "language": [
+      {
+        "language": "English",
+        "proficiency": "Proficient",
+        "communication_ability": ["Read", "Write", "Speak"]
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native",
+        "communication_ability": ["Read", "Write", "Speak"]
+      }
+    ],
+    "employment": {
+      "years_of_relevant_experience": 12.0
+    },
+    "employment_history": [
+      {
+        "employer_name": "GlobalTech Solutions",
+        "role": "Senior Developer",
+        "salary": 105000.0,
+        "employment_start_date": "2010-06-15",
+        "employment_end_date": "2021-10-31",
+        "currently_working": false,
+        "additional_employment_information": "Lead developer for cloud migration projects"
+      }
+    ],
+    "employee_offer": {
+      "date_of_joining": "2022-01-03T08:30:00.000Z",
+      "work_location": ["Office"],
+      "ctc": 115000,
+      "periodic_payment_amount": 115000,
+      "payment_frequency": "Monthly"
+    },
+    "employee_offer_payroll_breakup": [
+      {
+        "earning_id": "home_allowance",
+        "calc_value": 46000.0
+      }
+    ],
+    "bank_details": {
+      "beneficiary_name": "Employee50",
+      "account_number": "456789012345",
+      "ifsc_code": "BANK0009012",
+      "account_type": "Savings"
+    },
+    "nominee": [
+      {
+        "nominee_name": "Carlos Rodriguez",
+        "relationship_with_nominee": "Father",
+        "percentage_share": 100.0
+      }
+    ],
+    "additional_details": {
+      "has_relative_working": false,
+      "relative_name": "Carlos Rodriguez",
+      "relative_employee_id": "EMP0001",
+      "relationship_type": "Uncle",
+      "source": "Referral"
+    },
+    "job_application": {
+      "application_id": "APP34567",
+      "job_id": "JOB78901",
+      "source": "Referral"
+    }
+  }
+]
